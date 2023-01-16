@@ -2,6 +2,7 @@ import pyautogui as auto
 from datetime import datetime
 import time
 import sys
+import logging
 
 print(f"CANTIDAD DE PARAMTROS: {len(sys.argv)}")
 arrParameters = []
@@ -29,13 +30,17 @@ def poneteEn(imagenName,click, dobleClick):
         precision = reintentos * 0.3
         print("|------------------ " + str(imagenName) +" ------------------|")
         print("|    REINTENTOS: " + str(reintentos) + " - PRECISION: " + str(precision))
+        logging.info("|------------------ " + str(imagenName) +" ------------------|")
+        logging.info("|    REINTENTOS: " + str(reintentos) + " - PRECISION: " + str(precision))
         posicion = auto.locateOnScreen(imagenName, grayscale=True, confidence=precision)
         print("|    posicion:" +  str(posicion))
+        logging.info("|    posicion:" +  str(posicion))
         reintentos = reintentos - 1
         time.sleep(1)
 
         if posicion != None:
             print("|    break")
+            logging.info("|    break")
             break
 
     if posicion is not None:
@@ -49,20 +54,30 @@ def poneteEn(imagenName,click, dobleClick):
             auto.moveTo(posicionCenter.x, posicionCenter.y)
 
         print("|    POSITION:" + str(posicion))
+        logging.info("|    POSITION:" + str(posicion))
         print("|----------------------------------------------|\n")
+        logging.info("|----------------------------------------------|\n")
         return posicionCenter
 
 ahora = datetime.now()
 diaDeLaSemana = ahora.isoweekday()
 hora = ahora.hour;
+
+path ="C:/Users/e107580/Desktop/CODE/TIMY/fotos/"
+pathLog ="C:/Users/e107580/Desktop/CODE/TIMY/"
+logging.basicConfig(filename=str(pathLog)+'REGISTRO-FICHAJE.log', encoding='utf-8', level=logging.DEBUG)
+
+
 print("FICHAJE ESPAÑA -> DIA:" + str(diaDeLaSemana) + " -> " + str(hora) )
+logging.info("FICHAJE ESPAÑA -> DIA:" + str(diaDeLaSemana) + " -> " + str(hora) )
+
 
 if diaDeLaSemana != 6 and diaDeLaSemana != 7:
     if diaDeLaSemana == 5 and (hora > 12 or hora < 14):
         print("VIERNES AL MEDIODIA")
+        logging.info("VIERNES AL MEDIODIA")
     else:
         # LOGICA DE LA APLICACION:
-        path ="C:/Users/e107580/Desktop/CODE/TIMY/fotos/"
 
         # 1 - DESKTOP CLEAN:
         time.sleep(2)
@@ -87,9 +102,11 @@ if diaDeLaSemana != 6 and diaDeLaSemana != 7:
         # 5 - BOTON ENTRADA O SALIDA SEGUN PARAMETRO EXTERNO:
         if listaContiene(arrParameters, "MORNING"):
             print("DEBO FICHAR PARA MORNING")
+            logging.debug("DEBO FICHAR PARA MORNING")
             poneteEn(path + "boton-entrada.png", True, False)
         else:
             print("DEBO FICHAR PARA AFTERNOON")
+            logging.debug("DEBO FICHAR PARA AFTERNOON")
             poneteEn(path + "boton-salida2.png", True, False)
         time.sleep(10)
 
