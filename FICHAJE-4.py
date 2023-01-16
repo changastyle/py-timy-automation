@@ -1,5 +1,5 @@
 import pyautogui as auto
-import datetime as dt
+from datetime import datetime
 import time
 import sys
 
@@ -12,9 +12,6 @@ for i, argument in enumerate(sys.argv):
 # arrParameters.append("AFTERNOON")
 for parameterLoop in arrParameters:
   print(parameterLoop)
-
-hoy = dt.datetime.today()
-diaSemana = hoy.weekday()
 
 # print("HOY ES: " + str(diaSemana))
 
@@ -30,14 +27,15 @@ def poneteEn(imagenName,click, dobleClick):
     reintentos = 3
     while reintentos >= 1:
         precision = reintentos * 0.3
-        print("REINTENTOS: " + str(reintentos) + " - PRECISION: " + str(precision))
+        print("|------------------ " + str(imagenName) +" ------------------|")
+        print("|    REINTENTOS: " + str(reintentos) + " - PRECISION: " + str(precision))
         posicion = auto.locateOnScreen(imagenName, grayscale=True, confidence=precision)
-        print("posicion:" +  str(posicion))
+        print("|    posicion:" +  str(posicion))
         reintentos = reintentos - 1
         time.sleep(1)
 
         if posicion != None:
-            print("break")
+            print("|    break")
             break
 
     if posicion is not None:
@@ -50,44 +48,53 @@ def poneteEn(imagenName,click, dobleClick):
         else:
             auto.moveTo(posicionCenter.x, posicionCenter.y)
 
-        print("POSITION:" + str(posicion))
-
+        print("|    POSITION:" + str(posicion))
+        print("|----------------------------------------------|\n")
         return posicionCenter
 
-# LOGICA DE LA APLICACION:
-path ="C:/Users/e107580/Desktop/CODE/TIMY/fotos/"
+ahora = datetime.now()
+diaDeLaSemana = ahora.isoweekday()
+hora = ahora.hour;
+print("FICHAJE ESPAÑA -> DIA:" + str(diaDeLaSemana) + " -> " + str(hora) )
 
-# 1 - DESKTOP CLEAN:
-time.sleep(2)
-auto.hotkey('winleft','d')
-time.sleep(3)
+if diaDeLaSemana != 6 and diaDeLaSemana != 7:
+    if diaDeLaSemana == 5 and (hora > 12 or hora < 14):
+        print("VIERNES AL MEDIODIA")
+    else:
+        # LOGICA DE LA APLICACION:
+        path ="C:/Users/e107580/Desktop/CODE/TIMY/fotos/"
+
+        # 1 - DESKTOP CLEAN:
+        time.sleep(2)
+        auto.hotkey('winleft','d')
+        time.sleep(3)
 
 
 
 
-# 2 - OPEN MY TIME:
-poneteEn(path + "my-time-link-2.jpg", False , True)
-time.sleep(6)
+        # 2 - OPEN MY TIME:
+        poneteEn(path + "my-time-link-2.jpg", False , True)
+        time.sleep(6)
 
-# 3 - LOGIN MY TIME:
-poneteEn(path + "boton-login.png", True, False)
-time.sleep(5)
+        # 3 - LOGIN MY TIME:
+        poneteEn(path + "boton-login.png", True, False)
+        time.sleep(5)
 
-# 4 - BOTON OFICINA:
-poneteEn(path + "boton-oficina.png", True, False)
-time.sleep(3)
+        # 4 - BOTON OFICINA:
+        poneteEn(path + "boton-oficina.png", True, False)
+        time.sleep(3)
 
-# 5 - BOTON ENTRADA O SALIDA SEGUN PARAMETRO EXTERNO:
-if listaContiene(arrParameters, "MORNING"):
-    print("DEBO FICHAR PARA MORNING")
-    poneteEn(path + "boton-entrada.png", True, False)
-else:
-    print("DEBO FICHAR PARA AFTERNOON")
-    poneteEn(path + "boton-salida2.png", True, False)
-time.sleep(10)
+        # 5 - BOTON ENTRADA O SALIDA SEGUN PARAMETRO EXTERNO:
+        if listaContiene(arrParameters, "MORNING"):
+            print("DEBO FICHAR PARA MORNING")
+            poneteEn(path + "boton-entrada.png", True, False)
+        else:
+            print("DEBO FICHAR PARA AFTERNOON")
+            poneteEn(path + "boton-salida2.png", True, False)
+        time.sleep(10)
 
-# 6 - CERRAR IE:
-auto.click(1887, 20)
-time.sleep(3)
+        # 6 - CERRAR IE:
+        auto.click(1887, 20)
+        time.sleep(3)
 
 

@@ -42,14 +42,10 @@ print("PROYECT SUITE :" + str(diaDeLaSemana)  )
 if diaDeLaSemana != 6 and diaDeLaSemana != 7:
 
     # 1 - CLEAN DESKTOP:
-    # time.sleep(2)
-    # auto.hotkey('winleft','d')
-    # time.sleep(3)
+    time.sleep(2)
+    auto.hotkey('winleft','d')
+    time.sleep(3)
 
-    # ABRO PROYECT SUITE:
-    # auto.click(231,46)
-    # auto.click();
-    # time.sleep(6)
     # ME LOGEO PROYECT SUITE:
     time.sleep(2)
     poneteEn("fotos/open-project-suite.png", False, True);
