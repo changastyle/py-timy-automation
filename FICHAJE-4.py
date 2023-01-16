@@ -22,10 +22,11 @@ def listaContiene(lista , valor):
         si = True
 
     return si
-def poneteEn(imagenName,click, dobleClick):
+def poneteEn(imagenName,click, dobleClick , altaPrecicion):
 
     posicion = None
     reintentos = 3
+
     while reintentos >= 1:
         precision = reintentos * 0.3
         print("|------------------ " + str(imagenName) +" ------------------|")
@@ -35,7 +36,9 @@ def poneteEn(imagenName,click, dobleClick):
         posicion = auto.locateOnScreen(imagenName, grayscale=True, confidence=precision)
         print("|    posicion:" +  str(posicion))
         logging.info("|    posicion:" +  str(posicion))
-        reintentos = reintentos - 1
+
+        if not altaPrecicion:
+            reintentos = reintentos - 1
         time.sleep(1)
 
         if posicion != None:
@@ -63,8 +66,8 @@ ahora = datetime.now()
 diaDeLaSemana = ahora.isoweekday()
 hora = ahora.hour;
 
-path ="C:/Users/e107580/Desktop/CODE/TIMY/fotos/"
 pathLog ="C:/Users/e107580/Desktop/CODE/TIMY/"
+path = pathLog + "/fotos/"
 logging.basicConfig(filename=str(pathLog)+'REGISTRO-FICHAJE.log', encoding='utf-8', level=logging.DEBUG)
 
 
@@ -84,30 +87,30 @@ if diaDeLaSemana != 6 and diaDeLaSemana != 7:
         auto.hotkey('winleft','d')
         time.sleep(3)
 
-
-
-
         # 2 - OPEN MY TIME:
-        poneteEn(path + "my-time-link-2.jpg", False , True)
+        poneteEn(path + "my-time-link-2.png", False , True, True)
         time.sleep(6)
 
         # 3 - LOGIN MY TIME:
-        poneteEn(path + "boton-login.png", True, False)
+        poneteEn(path + "boton-login.png", True, False, False)
         time.sleep(5)
-
-        # 4 - BOTON OFICINA:
-        poneteEn(path + "boton-oficina.png", True, False)
-        time.sleep(3)
 
         # 5 - BOTON ENTRADA O SALIDA SEGUN PARAMETRO EXTERNO:
         if listaContiene(arrParameters, "MORNING"):
             print("DEBO FICHAR PARA MORNING")
             logging.debug("DEBO FICHAR PARA MORNING")
-            poneteEn(path + "boton-entrada.png", True, False)
+
+            # 4 - BOTON OFICINA:
+            poneteEn(path + "boton-oficina.png", True, False, False)
+            time.sleep(3)
+
+            poneteEn(path + "boton-entrada.png", True, False, False)
         else:
+
             print("DEBO FICHAR PARA AFTERNOON")
             logging.debug("DEBO FICHAR PARA AFTERNOON")
-            poneteEn(path + "boton-salida2.png", True, False)
+            poneteEn(path + "boton-salida.png", True, False, False)
+
         time.sleep(10)
 
         # 6 - CERRAR IE:

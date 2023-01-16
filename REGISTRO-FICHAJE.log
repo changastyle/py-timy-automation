@@ -91,3 +91,652 @@ INFO:root:|    break
 INFO:root:|    POSITION:Box(left=598, top=531, width=362, height=109)
 INFO:root:|----------------------------------------------|
 
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 17
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=430, top=0, width=79, height=89)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=430, top=0, width=79, height=89)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=124, top=0, width=121, height=48)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=124, top=0, width=121, height=48)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1989, top=495, width=82, height=40)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1989, top=495, width=82, height=40)
+INFO:root:|----------------------------------------------|
+
+DEBUG:root:DEBO FICHAR PARA AFTERNOON
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 17
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=430, top=0, width=79, height=89)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=430, top=0, width=79, height=89)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1129, top=864, width=121, height=48)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1129, top=864, width=121, height=48)
+INFO:root:|----------------------------------------------|
+
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 17
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+DEBUG:root:DEBO FICHAR PARA AFTERNOON
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=1060, top=0, width=79, height=89)
+INFO:root:|    posicion:None
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1060, top=0, width=79, height=89)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1036, top=0, width=121, height=48)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1036, top=0, width=121, height=48)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=31, top=0, width=82, height=40)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=31, top=0, width=82, height=40)
+INFO:root:|----------------------------------------------|
+
+DEBUG:root:DEBO FICHAR PARA AFTERNOON
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 17
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=430, top=0, width=79, height=89)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=430, top=0, width=79, height=89)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=122, top=0, width=121, height=48)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=122, top=0, width=121, height=48)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=163, top=69, width=82, height=40)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=163, top=69, width=82, height=40)
+INFO:root:|----------------------------------------------|
+
+DEBUG:root:DEBO FICHAR PARA AFTERNOON
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 17
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=430, top=0, width=79, height=89)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=430, top=0, width=79, height=89)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1036, top=0, width=121, height=48)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1036, top=0, width=121, height=48)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=2019, top=414, width=82, height=40)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=2019, top=414, width=82, height=40)
+INFO:root:|----------------------------------------------|
+
+DEBUG:root:DEBO FICHAR PARA AFTERNOON
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 17
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=299, top=0, width=79, height=89)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=299, top=0, width=79, height=89)
+INFO:root:|----------------------------------------------|
+
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=299, top=0, width=79, height=89)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=299, top=0, width=79, height=89)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1060, top=0, width=79, height=89)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1060, top=0, width=79, height=89)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 4 - PRECISION: 1.2
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=299, top=0, width=79, height=89)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=299, top=0, width=79, height=89)
+INFO:root:|----------------------------------------------|
+
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 4 - PRECISION: 1.2
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1060, top=0, width=79, height=89)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1060, top=0, width=79, height=89)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1036, top=0, width=121, height=48)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1036, top=0, width=121, height=48)
+INFO:root:|----------------------------------------------|
+
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.jpg ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=267, top=0, width=123, height=137)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=267, top=0, width=123, height=137)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=125, top=3, width=121, height=48)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=125, top=3, width=121, height=48)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1057, top=87, width=82, height=40)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1057, top=87, width=82, height=40)
+INFO:root:|----------------------------------------------|
+
+DEBUG:root:DEBO FICHAR PARA AFTERNOON
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=267, top=0, width=123, height=137)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=267, top=0, width=123, height=137)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=2144, top=0, width=121, height=48)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=2144, top=0, width=121, height=48)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=125, top=240, width=82, height=40)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=125, top=240, width=82, height=40)
+INFO:root:|----------------------------------------------|
+
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=267, top=0, width=123, height=137)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=267, top=0, width=123, height=137)
+INFO:root:|----------------------------------------------|
+
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=267, top=0, width=123, height=137)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=267, top=0, width=123, height=137)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=833, top=793, width=251, height=82)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=833, top=793, width=251, height=82)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=267, top=0, width=123, height=137)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=267, top=0, width=123, height=137)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=833, top=793, width=251, height=82)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=833, top=793, width=251, height=82)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=187, top=219, width=82, height=40)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=187, top=219, width=82, height=40)
+INFO:root:|----------------------------------------------|
+
+DEBUG:root:DEBO FICHAR PARA AFTERNOON
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=571, top=781, width=362, height=109)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=571, top=781, width=362, height=109)
+INFO:root:|----------------------------------------------|
+
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=267, top=0, width=123, height=137)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=267, top=0, width=123, height=137)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=833, top=793, width=251, height=82)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=833, top=793, width=251, height=82)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=377, top=211, width=82, height=40)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=377, top=211, width=82, height=40)
+INFO:root:|----------------------------------------------|
+
+DEBUG:root:DEBO FICHAR PARA AFTERNOON
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=267, top=0, width=123, height=137)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=267, top=0, width=123, height=137)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=833, top=793, width=251, height=82)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=833, top=793, width=251, height=82)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-oficina.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=187, top=219, width=82, height=40)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=187, top=219, width=82, height=40)
+INFO:root:|----------------------------------------------|
+
+DEBUG:root:DEBO FICHAR PARA AFTERNOON
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=404, top=1001, width=182, height=137)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=404, top=1001, width=182, height=137)
+INFO:root:|----------------------------------------------|
+
+INFO:root:FICHAJE ESPAÑA -> DIA:1 -> 18
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/my-time-link-2.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=267, top=1, width=123, height=137)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=267, top=1, width=123, height=137)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-login.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=833, top=793, width=251, height=82)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=833, top=793, width=251, height=82)
+INFO:root:|----------------------------------------------|
+
+DEBUG:root:DEBO FICHAR PARA AFTERNOON
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/boton-salida.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=545, top=833, width=182, height=137)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=545, top=833, width=182, height=137)
+INFO:root:|----------------------------------------------|
+
