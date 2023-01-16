@@ -2,6 +2,8 @@ import pyautogui as auto
 import time
 from datetime import datetime
 
+path = "C:/Users/e107580/Desktop/CODE/TIMY/fotos/"
+
 def poneteEn(imagenName,click, dobleClick):
 
     posicion = None
@@ -48,19 +50,19 @@ if diaDeLaSemana != 6 and diaDeLaSemana != 7:
 
     # ME LOGEO PROYECT SUITE:
     time.sleep(2)
-    poneteEn("fotos/open-project-suite.png", False, True);
+    poneteEn(path + "open-project-suite.png", False, True);
     time.sleep(5)
 
     #ME LOGEO PROYECT SUITE:
-    poneteEn("fotos/input-username.png", True, False);
+    poneteEn(path + "input-username.png", True, False);
     time.sleep(5)
 
     #ME LOGEO PROYECT SUITE:
-    poneteEn("fotos/x9260.png", True, False);
+    poneteEn(path + "x9260.png", True, False);
     time.sleep(5)
 
     #ME LOGEO PROYECT SUITE:
-    poneteEn("fotos/login-project-suite.png", True, False);
+    poneteEn(path + "login-project-suite.png", True, False);
     time.sleep(5)
 
     # CARTEL QUE NO:
@@ -68,18 +70,18 @@ if diaDeLaSemana != 6 and diaDeLaSemana != 7:
     # time.sleep(3)
     #
     # #BOTON NUEVA CARGA:
-    poneteEn("fotos/boton-nva-carga.png", True, False);
+    poneteEn(path + "boton-nva-carga.png", True, False);
     time.sleep(5)
     # auto.click(1750,483)
     # time.sleep(3)
 
     # #BOTON NUEVA CARGA:
-    poneteEn("fotos/onboarding.png", True, False);
+    poneteEn(path + "onboarding.png", True, False);
     time.sleep(5)
 
     # 4 HORAS:
     # poneteEn("fotos/4-hours.png", True, False);
-    poneteEn("fotos/zero-veinti-cinco.png", True, False);
+    poneteEn(path + "zero-veinti-cinco.png", True, False);
     auto.keyDown('backspace')
     auto.keyDown('backspace')
     auto.keyDown('backspace')
@@ -89,15 +91,15 @@ if diaDeLaSemana != 6 and diaDeLaSemana != 7:
     time.sleep(3)
 
     # COMBO CATEGORIAS:
-    poneteEn("fotos/combo-categoria.png", True, False);
+    poneteEn(path + "combo-categoria.png", True, False);
     time.sleep(3)
 
     # CATEGORIA OTHERS:
-    poneteEn("fotos/categoria-others.png", True, False);
+    poneteEn(path + "categoria-others.png", True, False);
     time.sleep(3)
 
     # BOTON APPLY:
-    poneteEn("fotos/apply.png", True, False);
+    poneteEn( path + "apply.png", True, False);
     time.sleep(3)
 
 
