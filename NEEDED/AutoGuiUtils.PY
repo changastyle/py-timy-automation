@@ -49,3 +49,14 @@ def poneteEn(imagenName,click, dobleClick , altaPrecicion):
         print("|----------------------------------------------|\n")
         logging.info("|----------------------------------------------|\n")
         return posicionCenter
+def damePos(imagenName,escalaGrises,altaPrecicion):
+
+    posicion = None
+
+    precision = 2 * 0.33
+    print("|------------------ " + str(imagenName) +" ------------------|")
+    print("|    REINTENTOS: " + str(reintentos) + " - PRECISION: " + str(precision))
+    posicion = auto.locateOnScreen(imagenName, grayscale=escalaGrises, confidence=precision)
+    print("|    posicion:" +  str(posicion))
+
+    return posicion
