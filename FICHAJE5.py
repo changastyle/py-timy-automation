@@ -36,6 +36,7 @@ def main():
             # 2 - OPEN MY TIME:
             if buscarIconoMyTimeEscritorio():
                 time.sleep(3)
+
                 if loginMyTime():
 
                     if buscarBotonAceptar(pathFotos):

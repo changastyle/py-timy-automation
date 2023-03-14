@@ -9,6 +9,8 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Users\e107580\AppData\Local\Program
 
 def sacarScreenshotYDamePosPalabra(nombrePalabraBuscada ,verbose):
     rutaImagen = "../screenshot.png"
+
+    print("SACANDO SCREENSHOT")
     im1 = auto.screenshot()
     im1.save(rutaImagen)
 

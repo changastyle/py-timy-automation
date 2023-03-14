@@ -825,3 +825,1159 @@ INFO:root:|    break
 INFO:root:|    POSITION:Box(left=443, top=686, width=268, height=146)
 INFO:root:|----------------------------------------------|
 
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=480, top=727, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=480, top=727, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=443, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=443, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=478, top=691, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=478, top=691, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=260, top=143, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=260, top=143, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=480, top=513, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=480, top=513, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    auto.hotkey('winleft', 'd')
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=478, top=730, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=478, top=730, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=443, top=686, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=443, top=686, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=478, top=710, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=478, top=710, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=478, top=730, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=478, top=730, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=443, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=443, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    auto.hotkey('winleft', 'd')
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    auto.hotkey('winleft', 'd')
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=1239, top=709, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1239, top=709, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=706, top=177, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=706, top=177, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=102, top=81, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=102, top=81, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=698, top=486, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=698, top=486, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=698, top=486, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=698, top=486, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1502, top=0, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1502, top=0, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=706, top=177, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=706, top=177, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1245, top=370, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1245, top=370, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=1601, top=66, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1601, top=66, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=591, top=0, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=591, top=0, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=986, top=102, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=986, top=102, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=478, top=651, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=478, top=651, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=486, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=486, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=685, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=685, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=486, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=486, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=757, top=497, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=757, top=497, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=486, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=486, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=443, top=685, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=443, top=685, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=844, top=901, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=844, top=901, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1271, top=203, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1271, top=203, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=893, top=51, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=893, top=51, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=1564, top=44, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1564, top=44, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=505, top=104, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=505, top=104, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    auto.hotkey('winleft', 'd')
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=880, top=512, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=880, top=512, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=443, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=443, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=532, top=7, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=532, top=7, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1658, top=37, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1658, top=37, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=0, top=901, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=0, top=901, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    auto.hotkey('winleft', 'd')
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=844, top=901, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=844, top=901, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=1271, top=203, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=1271, top=203, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=844, top=901, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=844, top=901, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=5, top=92, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=5, top=92, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=486, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=486, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=480, top=687, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=480, top=687, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    auto.hotkey('winleft', 'd')
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=688, top=576, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=688, top=576, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=444, top=777, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=444, top=777, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=443, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=443, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=844, top=901, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=844, top=901, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=443, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=443, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=480, top=727, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=480, top=727, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=480, top=727, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=480, top=727, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=443, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=443, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=478, top=710, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=478, top=710, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=893, top=51, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=893, top=51, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=478, top=710, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=478, top=710, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=478, top=730, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=478, top=730, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=443, top=686, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=443, top=686, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:Box(left=480, top=727, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=480, top=727, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=725, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=725, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=478, top=730, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=478, top=730, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=121, top=150, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=121, top=150, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=728, top=537, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=728, top=537, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=482, top=702, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=482, top=702, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=728, top=537, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=728, top=537, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=447, top=697, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=447, top=697, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=725, top=537, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=725, top=537, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=480, top=700, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=480, top=700, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=686, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=686, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    time.sleep(2)
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    time.sleep(2)
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=686, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=686, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=478, top=691, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=478, top=691, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=443, top=686, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=443, top=686, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=677, top=350, width=210, height=149)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=677, top=350, width=210, height=149)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=727, top=526, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=727, top=526, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-entradaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:Box(left=631, top=686, width=268, height=146)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=631, top=686, width=268, height=146)
+INFO:root:|----------------------------------------------|
+
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    time.sleep(2)
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    time.sleep(2)
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    time.sleep(2)
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-aceptar.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:Box(left=940, top=4, width=187, height=99)
+INFO:root:|    break
+INFO:root:|    POSITION:Box(left=940, top=4, width=187, height=99)
+INFO:root:|----------------------------------------------|
+
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 3 - PRECISION: 0.8999999999999999
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 2 - PRECISION: 0.6
+INFO:root:|    posicion:None
+INFO:root:|------------------ C:/Users/e107580/Desktop/CODE/TIMY/fotos/btn-salidaa.png ------------------|
+INFO:root:|    REINTENTOS: 1 - PRECISION: 0.3
+INFO:root:|    posicion:None
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    time.sleep(2)
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+CRITICAL:root:PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "FICHAJE5.py", line 33, in main
+    goToDesktop(arrParameters)
+  File "FICHAJE5.py", line 85, in goToDesktop
+    time.sleep(2)
+  File "pyautogui\__init__.py", line 597, in wrapper
+  File "pyautogui\__init__.py", line 1722, in failSafeCheck
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.

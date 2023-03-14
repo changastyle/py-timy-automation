@@ -25,8 +25,11 @@ class Word:
         finalX = self.anchoFinal()
         finalY = self.altoFinal()
 
-        medioX = int(self.x + ((finalX - self.x)/2))
-        medioY = int(self.y + ((finalY - self.y)/2))
+        x = self.x
+        y = self.y
+        if finalY != None or finalX != None or x == -1 or y == -1:
+            medioX = int(self.x + ((finalX - self.x)/2))
+            medioY = int(self.y + ((finalY - self.y)/2))
 
         return [medioX, medioY]
 
